@@ -789,6 +789,7 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
   inset: 0;
   background: rgba(0,0,0,0.5);
   z-index: 190;
+  -webkit-backdrop-filter: blur(4px);
   backdrop-filter: blur(4px);
 }
 .mobile-overlay.open { display: block; }
