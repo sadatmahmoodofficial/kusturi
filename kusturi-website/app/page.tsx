@@ -899,7 +899,6 @@ const cmsGalleryImages = homepageData?.galleryImages?.length ? homepageData.gall
               <iframe
                 title="Kusturi location"
                 src={mapUrl}
-                loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
               />
             </div>

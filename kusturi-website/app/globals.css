@@ -159,8 +159,8 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
 }
 .navbar.scrolled {
   background: rgba(13,74,43,0.97);
-  backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
   padding: 0.9rem 5%;
   box-shadow: 0 2px 32px rgba(0,0,0,0.18);
 }
@@ -947,8 +947,8 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
   border: 1px solid rgba(13, 74, 43, 0.14);
   border-radius: var(--radius-sm);
   background: rgba(250, 247, 240, 0.96);
-  backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
   margin-bottom: 4rem;
 }
 
